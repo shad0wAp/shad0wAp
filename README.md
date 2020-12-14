@@ -54,7 +54,7 @@
 - [Blog Post](https://codezatech.blogspot.com/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codezatech.blogspot.com/)
+➡️ [more blog posts...](https://shad0wap.blogspot.com/)
 ---
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
